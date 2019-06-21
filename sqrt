@@ -1,0 +1,3 @@
+a=double.parse(textbox.text)
+b=double.parse(textbox.text)
+if a

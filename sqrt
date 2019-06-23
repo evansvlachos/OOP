@@ -1,7 +1,0 @@
-a=double.parse(textbox.text)
-b=double.parse(textbox.text)
-if a=0 then
-if b=0 then
-textbox3.text="aoristh"
-else
-t

@@ -5,3 +5,6 @@ gin=gin*2
 gin=gin*3
 gin=gin*4
 for i=1 to n
+giν=gin*I
+next
+textbox2.text=gin.to string 

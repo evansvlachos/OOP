@@ -1,7 +1,9 @@
 public class MyClass {
   public static void main(String[] args) {
+    
     int GCP= 600;
     int OLD=601;
+    //gcp select
  if (GCP < OLD) {
   System.out.println("Depresion");
 } 

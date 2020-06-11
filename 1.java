@@ -3,7 +3,8 @@ public class MyClass {
    //VALUES 
    int GCP= 600;
    int OLD=601;
-//FORM     
+
+ //FORM     
 JLABEL lblName =new label ("");
   
 //gcp select LOOP 
